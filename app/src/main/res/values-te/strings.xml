@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">అనువర్తనం పేరు</string>
+    <string name="username">యూజర్పేరు</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="remember_password">పాస్వర్డ్ గుర్తుంచుకో</string>
+    <string name="login">లాగిన్</string>
+    <string name="notification">నోటిఫికేషన్</string>
+
+
+</resources>

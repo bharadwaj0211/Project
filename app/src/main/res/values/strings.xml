@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Project</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="remember_password">Remember password</string>
+    <string name="login">Login</string>
+    <string name="notification">Notification</string>
+
 </resources>
